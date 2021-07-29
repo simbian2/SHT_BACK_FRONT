@@ -30,7 +30,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_7__);
 
 
-var _jsxFileName = "C:\\Users\\KGA_20\\0728\\Front\\pages\\_app.jsx";
+var _jsxFileName = "C:\\Users\\KGA_20\\SHT_0729\\Front\\pages\\_app.jsx";
 
 
 

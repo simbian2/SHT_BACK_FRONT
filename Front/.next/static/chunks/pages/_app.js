@@ -700,7 +700,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
-var _jsxFileName = "C:\\Users\\KGA_20\\0728\\Front\\pages\\_app.jsx",
+var _jsxFileName = "C:\\Users\\KGA_20\\SHT_0729\\Front\\pages\\_app.jsx",
     _this = undefined;
 
 
